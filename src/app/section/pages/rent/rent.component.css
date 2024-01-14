@@ -1,0 +1,17 @@
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.badge{
+    position: absolute;
+    top:16px;
+    right:16px;
+    background-color:yellowgreen;
+    color:white;
+    padding: 4px 10px;
+    border-radius: 4px;
+    z-index: 1;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
